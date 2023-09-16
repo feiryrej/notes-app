@@ -10,4 +10,4 @@ This Note Pad has been crafted using a pink color scheme while incorporating pri
    
 # Additional Information 💗
 Project completion date: August 05, 2023.
-HTML and CSS Project.
+HTML, JS, and CSS Project.
