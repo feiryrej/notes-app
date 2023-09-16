@@ -9,5 +9,5 @@ This Note Pad has been crafted using a pink color scheme while incorporating pri
 4. Click the 'x' button to delete a task.
    
 # Additional Information 💗
-Project completion date: August 01, 2023.
+Project completion date: August 05, 2023.
 HTML and CSS Project.
