@@ -1,5 +1,5 @@
-# Disclaimer 🍥
-This webpage is currently only accessible through Virtual Studio Code's live server and is not yet available on the internet.
+# Note 🍥
+This webpage is currently available on the internet.
 
 # Details 🎀
 This Note Pad has been crafted using a pink color scheme while incorporating principles of UI/UX design.
